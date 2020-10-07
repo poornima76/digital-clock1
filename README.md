@@ -1,7 +1,10 @@
-# digital-clock1
-<html>
-  <body>
-    <a href="file:///C:/css%20and%20js/html/css%20and%20j.html">digital clock click here</a>
-  </body>
-  </html>
+# digital-clock
+
+## Project for a clock
+- Technologies used
+  - HTML
+  - CSS
+  - javascript
+  -
   
+Link to [Codepen](https://codepen.io/poornima76/pen/WNxNoJK)
